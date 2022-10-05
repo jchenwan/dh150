@@ -1,0 +1,30 @@
+h1 {
+	color:pink;
+	font-family:helvetica;
+  padding-top:50px;
+	padding-bottom:50px;
+}
+
+h2 {
+	color:white;
+	font-family:helvetica;
+}
+
+p {
+	color:blue;
+	font-family:helvetica;
+	background-color:white;
+	padding:50px;
+}
+
+body {
+	background-color:blue;
+}
+
+img {
+	border:5px solid white;
+  background-color:white;
+	width:25%;
+	height:25%;
+  margin-top:50px;
+}
